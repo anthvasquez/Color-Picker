@@ -1,2 +1,2 @@
 # Color-Picker
-A simple RGB color picker written using JavaFX.
+A simple RGB color picker written using JavaFX..
