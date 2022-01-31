@@ -1,9 +1,9 @@
 # Color-Picker
 A simple RGB color picker written using JavaFX.
 
-The source code has been removed to prevent plagiarism since this was a school project.
+Run from the command line with `java -jar ColorPicker.jar` using Java 10 or later.
 
-Run from the command line with `java -jar ColorPicker.jar`
+Since this was a school project, the source code has been removed to prevent plagiarism.
 
 Javadocs:
 https://anthvasquez.github.io/Color-Picker/
